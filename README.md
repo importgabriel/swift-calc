@@ -1,2 +1,3 @@
-# swift-calc
-Make me a calculator
+# App
+
+Built by [Agent Switch](https://theswitchai.com/code).
